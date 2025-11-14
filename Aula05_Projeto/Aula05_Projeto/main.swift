@@ -225,5 +225,3 @@ func lutar(jogador: Banda) {
 }
 
 iniciarJogo()
-
-mostre em um código de GitHub readme a história e como jogar
